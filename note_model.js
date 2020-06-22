@@ -5,3 +5,7 @@ function Notes(text) {
 Notes.prototype.text = function() {
   return this.text
 };
+
+
+
+// module.exports = Notes;
